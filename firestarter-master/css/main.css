@@ -1,0 +1,22 @@
+html {
+    color: #ffff;
+    font-size: 2em;
+    line-height: 2;
+    font-family: Yahfie; 
+   
+}
+  
+@font-face {
+   	font-family:Yahfie;
+    src: url("../fonts/Yahfie/Yahfie-Heavy.ttf");  
+    
+}
+
+
+
+
+
+
+
+
+
