@@ -2,12 +2,12 @@ html {
     color: #ffff;
     font-size: 2em;
     line-height: 2;
-    font-family: NotCourierSans;   
+    font-family: notcouriersans;   
 }
   
 @font-face {
-   	font-family:NotCourierSans;
-    src: url("../fonts/NotCourierSans/NotCourierSans.ttf");   
+   	font-family:notcouriersans;
+    src: url("../fonts/notcouriersans/notcouriersans.ttf");   
 }
 
 .badge {
@@ -18,7 +18,7 @@ html {
 }
 
 h1 span {
-  font: 20px NotCourierSans, MonoSpace;
+  font: 20px notcouriersans, MonoSpace;
   height: 450px;
   position: absolute;
   width: 10px;
